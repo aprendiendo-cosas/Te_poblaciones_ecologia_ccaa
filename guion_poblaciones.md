@@ -4,7 +4,7 @@
 > + **_Versión_**: 1.0.
 > + **_Asignatura (grado)_**: Ecología (CCAA)
 > + **_Autor_**: Curro Bonet-García (fjbonet@uco.es)
-> + **_Acceso_**: [https://github.com/fjbonet/generalidades_ecologia/blob/master/guion_generalidades_ecologia.md](https://github.com/fjbonet/generalidades_ecologia/blob/master/guion_generalidades_ecologia.md)
+> + **_Acceso_**: [https://github.com/fjbonet/poblaciones/blob/master/guion_poblaciones.md](https://github.com/fjbonet/poblaciones/blob/master/guion_poblaciones.md)
 > + **Duración**: Aproximadamente 2 horas.
 
 
@@ -24,10 +24,14 @@ En esta sesión se suministra el siguiente material a los estudiantes:
   + [Visualización en línea](https://prezi.com/view/lbL7zBEJyj0vTIcnyECB/).
   + Descarga de ejecutable para verla offline. Disponible para [Mac](https://github.com/fjbonet/poblaciones/raw/master/presentacion/Mac.zip) y para [Windows](https://github.com/fjbonet/poblaciones/raw/master/presentacion/Windows.exe).
   + Descarga en formato [pdf](https://github.com/fjbonet/poblaciones/raw/master/presentacion/presentacion_poblaciones_lowres.pdf).
-  + También se puede ver incrustada a continuación:
+  + También se puede ver incrustada a continuación (solo visible en la versión html):
 
 <p><iframe src="https://prezi.com/view/lbL7zBEJyj0vTIcnyECB/embed" width="1200" height="900"> </iframe></p>
 
 
+
++ Web de [Khan Academy](https://es.khanacademy.org/science/biology/ecology/population-ecology/a/population-size-density-and-dispersal) sobre introducción a la ecología de poblaciones.
++ Definición de [población](https://www.nature.com/scitable/knowledge/population-ecology-13228167/) ecológica según Nature.
++ Web dinámica sobre [pirámides poblacionales](https://www.populationpyramid.net/) de la especie humana por países.
 
 
