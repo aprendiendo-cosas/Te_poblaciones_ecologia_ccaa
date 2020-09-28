@@ -1,10 +1,9 @@
 # Guión de la sesión denominada "Poblaciones en ecología"
 
 
-> + **_Versión_**: 1.0.
+> + **_Versión_**: 2019-2020
 > + **_Asignatura (grado)_**: Ecología (CCAA)
 > + **_Autor_**: Curro Bonet-García (fjbonet@uco.es)
-> + **_Acceso_**: [https://github.com/fjbonet/poblaciones/blob/master/guion_poblaciones.md](https://github.com/fjbonet/poblaciones/blob/master/guion_poblaciones.md)
 > + **Duración**: Aproximadamente 2 horas.
 
 
