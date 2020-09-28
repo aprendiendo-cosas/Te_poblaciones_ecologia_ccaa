@@ -1,6 +1,6 @@
 # Objetivo
 
-Este repositorio contiene todo el material usado para impartir el "tema" sobre poblaciones en ecología.
+Este repositorio contiene todo el material usado para impartir el "tema" sobre poblaciones en ecología. 
 
 # Contenidos
 + **guion_poblaciones.md**: Guión de las sesiones. Contiene enlaces al material utilizado. 
