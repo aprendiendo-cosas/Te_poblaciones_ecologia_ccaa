@@ -21,18 +21,28 @@ Esta sesión (la primera teórica del curso) tiene únicamente objetivos discipl
  ## Contenidos e hilo argumental
 En esta sesión se suministra el siguiente material:
 + Empezamos definiendo el concepto de población y describiendo sus características principales. 
-+ Después se analiza cómo los conceptos ecológicos descritos anteriormente fueron aplicados a la creación de unos criterios de asignación de categorías de amenaza a las especies. Dichos criterios están disponibles en este manual editado por la UICN.Se usa como guía una presentación de Prezi que está disponible en varios formatos:
++ Después se analiza cómo los conceptos ecológicos descritos anteriormente fueron aplicados a la creación de unos criterios de asignación de categorías de amenaza a las especies. Dichos criterios están disponibles en [este](https://www.iucn.org/es/content/categorias-y-criterios-de-la-lista-roja-de-la-uicn-version-31-segunda-edicion) manual editado por la [UICN](https://www.iucn.org/es). 
++ Para toda la sesión se usa como guía una presentación de Prezi que está disponible en varios formatos:
   + [Visualización en línea](https://prezi.com/view/lbL7zBEJyj0vTIcnyECB/).
-  + Descarga de ejecutable para verla offline. Disponible para [Mac](https://github.com/fjbonet/poblaciones/raw/master/presentacion/Mac.zip) y para [Windows](https://github.com/fjbonet/poblaciones/raw/master/presentacion/Windows.exe).
-  + Descarga en formato [pdf](https://github.com/fjbonet/poblaciones/raw/master/presentacion/presentacion_poblaciones_lowres.pdf).
-  + También se puede ver incrustada a continuación (solo visible en la versión html):
+  + Descarga de ejecutable para verla offline. Disponible para [Mac](https://github.com/aprendiendo-cosas/Te_poblaciones_ecologia_ccaa/raw/master/presentacion/poblaciones_ecologia.zip) y para [Windows](https://github.com/aprendiendo-cosas/Te_poblaciones_ecologia_ccaa/raw/master/presentacion/poblaciones_ecologia.exe).
+  + Descarga en formato [pdf](https://github.com/aprendiendo-cosas/Te_poblaciones_ecologia_ccaa/raw/master/presentacion/presentacion_poblaciones_lowres.pdf).
+  + También se puede ver incrustada a continuación:
 
 <p><iframe src="https://prezi.com/view/lbL7zBEJyj0vTIcnyECB/embed" width="1200" height="900"> </iframe></p>
 
-
+Además, a continuación tienes material complementario que te servirá para profundizar en los conceptos abordados en clase:
 
 + Web de [Khan Academy](https://es.khanacademy.org/science/biology/ecology/population-ecology/a/population-size-density-and-dispersal) sobre introducción a la ecología de poblaciones.
 + Definición de [población](https://www.nature.com/scitable/knowledge/population-ecology-13228167/) ecológica según Nature.
 + Web dinámica sobre [pirámides poblacionales](https://www.populationpyramid.net/) de la especie humana por países.
+
+
+
+
+
+## Vídeos de las sesiones
+
+Vídeo completo que muestra las dos sesiones que dedicamos a este tema:
+
 
 
