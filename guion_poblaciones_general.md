@@ -34,8 +34,8 @@ En esta sesión se suministra el siguiente material:
 + Después se analiza cómo los conceptos ecológicos descritos anteriormente fueron aplicados a la creación de unos criterios de asignación de categorías de amenaza a las especies. Dichos criterios están disponibles en [este](https://www.iucn.org/es/content/categorias-y-criterios-de-la-lista-roja-de-la-uicn-version-31-segunda-edicion) manual editado por la [UICN](https://www.iucn.org/es). 
 + Para toda la sesión se usa como guía una presentación de Prezi que está disponible en varios formatos:
   + [Visualización en línea](https://prezi.com/view/trVzAxyV5rzjx3yCFqBr).
-  + Descarga de ejecutable para verla offline. Disponible para [Mac](https://github.com/aprendiendo-cosas/Te_poblaciones_ecologia_ccaa/raw/2020-2021/presentacion/poblaciones_ecologia.zip) y para [Windows](https://github.com/aprendiendo-cosas/Te_poblaciones_ecologia_ccaa/raw/2020-2021/presentacion/poblaciones_ecologia.exe).
-  + Descarga en formato [pdf](https://github.com/aprendiendo-cosas/Te_poblaciones_ecologia_ccaa/raw/2020-2021/presentacion/presentacion_poblaciones_lowres.pdf).
+  + Descarga de ejecutable para verla offline. Disponible para [Mac](https://github.com/aprendiendo-cosas/Te_poblaciones_ecologia_ccaa/raw/master/presentacion/poblaciones_ecologia.zip) y para [Windows](https://github.com/aprendiendo-cosas/Te_poblaciones_ecologia_ccaa/raw/master/presentacion/poblaciones_ecologia.exe).
+  + Descarga en formato [pdf](https://github.com/aprendiendo-cosas/Te_poblaciones_ecologia_ccaa/raw/master/presentacion/presentacion_poblaciones_lowres.pdf).
   + También se puede ver incrustada a continuación:
 
 <p><iframe src="https://prezi.com/view/trVzAxyV5rzjx3yCFqBr/embed" width="1200" height="900"> </iframe></p>
