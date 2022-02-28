@@ -34,8 +34,8 @@ En esta sesión se suministra el siguiente material:
 + Después se analiza cómo los conceptos ecológicos descritos anteriormente fueron aplicados a la creación de unos criterios de asignación de categorías de amenaza a las especies. Dichos criterios están disponibles en [este](https://www.iucn.org/es/content/categorias-y-criterios-de-la-lista-roja-de-la-uicn-version-31-segunda-edicion) manual editado por la [UICN](https://www.iucn.org/es). 
 + Para toda la sesión se usa como guía una presentación de Prezi que está disponible en varios formatos:
   + [Visualización en línea](https://prezi.com/view/trVzAxyV5rzjx3yCFqBr).
-  + Descarga de ejecutable para verla offline. Disponible para [Mac](https://github.com/aprendiendo-cosas/Te_poblaciones_ecologia_ccaa/raw/master/presentacion/poblaciones_ecologia.zip) y para [Windows](https://github.com/aprendiendo-cosas/Te_poblaciones_ecologia_ccaa/raw/master/presentacion/poblaciones_ecologia.exe).
-  + Descarga en formato [pdf](https://github.com/aprendiendo-cosas/Te_poblaciones_ecologia_ccaa/raw/master/presentacion/presentacion_poblaciones_lowres.pdf).
+  + Descarga de ejecutable para verla offline. Disponible para [Mac](https://github.com/aprendiendo-cosas/Te_poblaciones_ecologia_ccaa/raw/2021_2022/presentacion/poblaciones_ecologia.zip) y para [Windows](https://github.com/aprendiendo-cosas/Te_poblaciones_ecologia_ccaa/raw/2021_2022/presentacion/poblaciones_ecologia.exe).
+  + Descarga en formato [pdf](https://github.com/aprendiendo-cosas/Te_poblaciones_ecologia_ccaa/raw/2021_2022/presentacion/presentacion_poblaciones_lowres.pdf).
   + También se puede ver incrustada a continuación:
 
 <p><iframe src="https://prezi.com/view/trVzAxyV5rzjx3yCFqBr/embed" width="1200" height="900"> </iframe></p>
@@ -53,4 +53,13 @@ Además, a continuación tienes material complementario que te servirá para pro
 
 ## Evaluación de la sesión según los estudiantes
 
-Aquí pondré los resultados de [esta](https://docs.google.com/forms/d/e/1FAIpQLScbCKaNkzzjV5bH0yek41FO-KS7LtLhT_ilITS_ZR0Z2XJyCA/viewform?usp=sf_link) encuesta sobre grado de satisfacción de los objetivos planteados. Por favor, rellénala si no lo has hecho ya. Se tardan 10 segundos y sus resultados son de gran utilidad para mejorar los contenidos cada año. Gracias.
+Aquí puedes ver los resultados que, por ahora, arroja [esta](https://docs.google.com/forms/d/e/1FAIpQLScbCKaNkzzjV5bH0yek41FO-KS7LtLhT_ilITS_ZR0Z2XJyCA/viewform?usp=sf_link) encuesta sobre grado de satisfacción de los objetivos planteados. Por favor, rellénala si no lo has hecho ya. Se tardan 10 segundos y sus resultados son de gran utilidad para mejorar los contenidos cada año. Gracias.
+
+
+
+<img src="https://github.com/aprendiendo-cosas/Te_poblaciones_ecologia_ccaa/raw/2021_2022/imagenes/cumplimiento_objetivos.png" alt="image" style="zoom:50%;" />
+
+<img src="https://github.com/aprendiendo-cosas/Te_poblaciones_ecologia_ccaa/raw/2021_2022/imagenes/desempenio_profesor.png" alt="image" style="zoom:50%;" />
+
+
+
