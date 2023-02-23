@@ -1,7 +1,7 @@
 # Guión de la sesión denominada "Poblaciones en ecología"
 
 
-> + **_Versión_**: 2021-2022
+> + **_Versión_**: 2022-2023
 > + **_Asignatura (grado)_**: Ecología (CCAA)
 > + **_Autor_**: Curro Bonet-García (fjbonet@uco.es)
 > + **Duración**: Aproximadamente 2 horas.
@@ -10,7 +10,7 @@
 
 ## Objetivos 
 
-Esta sesión (la primera teórica del curso) tiene los siguientes objetivos:
+Esta sesión tiene los siguientes objetivos:
 
 + Disciplinares (relacionados con la ecología)
 
@@ -48,18 +48,10 @@ Además, a continuación tienes material complementario que te servirá para pro
 + Web dinámica sobre [pirámides poblacionales](https://www.populationpyramid.net/) de la especie humana por países.
 
 
+## Ideas para activar el [preguntismo](https://aprendientesdotorg.wordpress.com/2015/10/15/activar-el-preguntismo/)
+Se ha comprobado que una buena forma de fijar conocimientos y de identificar carencias en el aprendizaje es tratar de formular preguntas sobre el tema estudiado. Así que, en algunas sesiones abriré un espacio para que inventes preguntas. La idea es que formules una pregunta sobre temas que te interesen relacionados con lo que hemos visto en clase. O cuestiones que conecten con la actualidad o que estén relacionadas con otras disciplinas. También sirven preguntas locas que no tienen por qué tener respuesta. Sube tu pregunta a [este](https://docs.google.com/forms/d/e/1FAIpQLScs9QiBABvvDUt1La1wNdGmao9PplCMSReVgV8wBIX5Q3YTZQ/viewform?usp=sf_link) formulario en los últimos 5' de clase. Yo las revisaré y comentaremos alguna de las más interesantes al principio de la siguiente sesión. 
 
 
-
-## Evaluación de la sesión según los estudiantes
-
-Aquí puedes ver los resultados que, por ahora, arroja [esta](https://docs.google.com/forms/d/e/1FAIpQLScbCKaNkzzjV5bH0yek41FO-KS7LtLhT_ilITS_ZR0Z2XJyCA/viewform?usp=sf_link) encuesta sobre grado de satisfacción de los objetivos planteados. Por favor, rellénala si no lo has hecho ya. Se tardan 10 segundos y sus resultados son de gran utilidad para mejorar los contenidos cada año. Gracias.
-
-
-
-<img src="https://github.com/aprendiendo-cosas/Te_poblaciones_ecologia_ccaa/raw/2021_2022/imagenes/cumplimiento_objetivos.png" alt="image" style="zoom:50%;" />
-
-<img src="https://github.com/aprendiendo-cosas/Te_poblaciones_ecologia_ccaa/raw/2021_2022/imagenes/desempenio_profesor.png" alt="image" style="zoom:50%;" />
 
 
 
