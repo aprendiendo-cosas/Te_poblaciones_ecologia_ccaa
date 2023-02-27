@@ -6,7 +6,7 @@
 > + **_Autor_**: Curro Bonet-García (fjbonet@uco.es)
 > + **Duración**: Aproximadamente 2 horas.
 
-![portada]()
+![portada](https://github.com/aprendiendo-cosas/Te_poblaciones_ecologia_ccaa/raw/master/imagenes/portada2.png)
 
 ## Objetivos 
 
