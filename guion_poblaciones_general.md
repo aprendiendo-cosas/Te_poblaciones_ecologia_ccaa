@@ -6,7 +6,9 @@
 > + **_Autor_**: Curro Bonet-García (fjbonet@uco.es)
 > + **Duración**: Aproximadamente 2 horas.
 
-![portada](https://github.com/aprendiendo-cosas/Te_poblaciones_ecologia_ccaa/raw/master/imagenes/portada2.png)
+![portada](https://github.com/aprendiendo-cosas/Te_poblaciones_ecologia_ccaa/raw/master/imagenes/portada.png)
+
+
 
 ## Objetivos 
 
@@ -28,7 +30,10 @@ Esta sesión tiene los siguientes objetivos:
 
   + Entrenar la capacidad de transferir aprendizajes teóricos (dinámica de poblaciones) a otros ámbitos aplicados (asignación de categorías de amenaza a especies).
 
+
+
  ## Contenidos e hilo argumental
+
 En esta sesión se suministra el siguiente material:
 + Empezamos definiendo el concepto de población y describiendo sus características principales. 
 + Después se analiza cómo los conceptos ecológicos descritos anteriormente fueron aplicados a la creación de unos criterios de asignación de categorías de amenaza a las especies. Dichos criterios están disponibles en [este](https://www.iucnredlist.org/es/resources/redlistguidelines) manual editado por la [UICN](https://www.iucn.org/es). 
@@ -77,5 +82,11 @@ Solo 9 estudiantes han completado el formulario. Os doy las gracias. A los demá
 
   
 
+## Evaluación de la sesión según los estudiantes
 
+Aquí puedes ver los resultados que, por ahora, arroja [esta](https://docs.google.com/forms/d/e/1FAIpQLScbCKaNkzzjV5bH0yek41FO-KS7LtLhT_ilITS_ZR0Z2XJyCA/viewform?usp=sf_link) encuesta sobre el grado de aprendizaje adquirido y sobre el desempeño del profesor en esta sesión. Por favor, rellénala si no lo has hecho ya. Se tardan 10 segundos y sus resultados son de gran utilidad para mejorar los contenidos cada año. Gracias.
+
+<img src="https://github.com/aprendiendo-cosas/Te_poblaciones_comp_intra_ecologia_ccaa/raw/master/imagenes/cumplimiento_objetivos.png" alt="image" style="zoom:50%;" />
+
+<img src="https://github.com/aprendiendo-cosas/Te_poblaciones_comp_intra_ecologia_ccaa/raw/master/imagenes/desempenio_profesor.png" alt="image" style="zoom:50%;" />
 
