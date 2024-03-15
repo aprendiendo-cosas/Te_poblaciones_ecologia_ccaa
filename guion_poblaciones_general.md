@@ -40,10 +40,10 @@ En esta sesión se suministra el siguiente material:
 + Para toda la sesión se usa como guía una presentación de Prezi que está disponible en varios formatos:
   + [Visualización en línea](https://prezi.com/view/trVzAxyV5rzjx3yCFqBr).
   + Descarga de ejecutable para verla offline. Disponible para [Mac](https://github.com/aprendiendo-cosas/Te_poblaciones_ecologia_ccaa/raw/master/presentacion/poblaciones_ecologia.zip) y para [Windows](https://github.com/aprendiendo-cosas/Te_poblaciones_ecologia_ccaa/raw/master/presentacion/poblaciones_ecologia.exe).
-  + Descarga en formato [pdf](https://github.com/aprendiendo-cosas/Te_poblaciones_ecologia_ccaa/raw/master/presentacion/presentacion_poblaciones_lowres.pdf).
+  + Descarga en formato [pdf](https://github.com/aprendiendo-cosas/Te_poblaciones_ecologia_ccaa/raw/master/presentacion/poblaciones_ecologia.pdf).
   + También se puede ver incrustada a continuación:
 
-<p><iframe src="https://prezi.com/view/trVzAxyV5rzjx3yCFqBr/embed" width="1200" height="900"> </iframe></p>
+<iframe src="https://prezi.com/p/embed/B8X5kaItScAM3C0acXqS/" id="iframe_container" frameborder="0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen="" allow="autoplay; fullscreen" height="915" width="560"></iframe>
 
 Además, a continuación tienes material complementario que te servirá para profundizar en los conceptos abordados en clase:
 
@@ -62,7 +62,69 @@ Además, a continuación tienes material complementario que te servirá para pro
 
 Se ha comprobado que una buena forma de fijar conocimientos y de identificar carencias en el aprendizaje es tratar de formular preguntas sobre el tema estudiado. Así que, en algunas sesiones abriré un espacio para que inventes preguntas. La idea es que formules una pregunta sobre temas que te interesen relacionados con lo que hemos visto en clase. O cuestiones que conecten con la actualidad o que estén relacionadas con otras disciplinas. También sirven preguntas locas que no tienen por qué tener respuesta. Sube tu pregunta a [este](https://docs.google.com/forms/d/e/1FAIpQLScs9QiBABvvDUt1La1wNdGmao9PplCMSReVgV8wBIX5Q3YTZQ/viewform?usp=sf_link) formulario en los últimos 5' de clase. 
 
-En este mismo guión pondré las respuestas a las preguntas formuladas.
+Ahí van las preguntas que habéis formulado y una propuesta de respuesta por mi parte:
+
+**¿Cómo de frecuente es que falle la manera de clasificación de la lista roja?**
+
+Pues no lo sé. ¿a qué te refieres con fallar? Es un proceso complejo porque está sometido a mucha incertidumbre. Tenéis en el moodle una tarea en la que hay un ejemplo de posible "fallo" de este sistema.
+
+
+
+**¿Puede la perdida de una especie provocar la extinción de todo un ecosistema?**
+
+Aún no podemos entender esto porque no hemos estudiado los ecosistemas. La respuesta fácil es que no es probable que ocurra lo que sugieres. Los ecosistemas tienen varias especies que cumplen la misma función o funciones parecidas. Es decir, hay cierta redundancia, por lo que no suele ser catastrófico que desaparezca una única especie.
+
+
+
+**¿Es posible que se conozca un porcentaje mucho mayor de especies del que se piensa? Es decir, puede ser que no haya tantas especeis como pensamos. ¿Qué evidencias hay para que pensemos que hay varios millones de especies que aún no conocemos?** Está muy bien planteada la pregunta. Aludir a las evidencias científicas disponibles es interesante. Además, esta pregunta es un caso de estudio muy bueno para practicar la dialógica (aprendizaje basado en el diálogo) con ChatGPT y Perplexity. Ahí van las respuestas que he conseguido buscando yo:
+
++ En efecto, es posible que en realidad estemos fallando en las estimaciones y que haya menos espsecies de las que creemos. Pero esto es poco probable. 
+
+
+
+¿Cuáles son los diferentes patrones de crecimiento de una población y qué factores los que afectan?
+
+
+
+Hace poco vi en internet un proyecto que busca reintroducir el mamut en las estepas de Rusia ¿Es buena idea reintroducir especies extintas en los lugares que solían habitar?
+
+
+
+¿Cuáles son las consecuencias de una mala asignación de una especie a una de las categorías (ej. En peligro, vulnerable, etc)?
+
+
+
+¿las listas rojas cada cuánto se deben de renovar? Ya que, debido al calentamiento global cada día se pueden producir alteraciones en una misma especie. 
+
+
+
+¿Qué impacto puede generar el que una especie esté en peligro de extinción y por qué es importante su conservación?
+
+
+
+El libro rojo lo actualizan cada año? Si no es así, cada cuando lo actualizan? 
+
+
+
+¿Qué relación sigue la ciencia con la ecología para crear la lista roja de la UICN?
+
+
+
+¿Cómo se relaciona en el ecologismo con la introducción de nuevas especies en un territorio determinado?Alterando así las relaciones con otros individuos.
+
+
+
+En un hipotético caso en el que la ciencia avance lo suficiente como para traer a la vida especies ya extintas, si solo pudieran traerse a la vida unas pocas entrarían en estas categorías de especies amenazadas o se tendrían que crear categorías "especiales" para estos casos "especiales".
+
+
+
+¿Cada cuánto se actualiza la lista de la UICN?
+
+
+
+¿Como puedes saber si una especie cambia de una categoría a otra de la UICN? ¿O como saber cuando se extingue totalmente? ¿Tienen un seguimiento continuo? 
+
+
 
 
 
