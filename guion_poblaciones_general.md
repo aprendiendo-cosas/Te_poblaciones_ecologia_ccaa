@@ -6,7 +6,7 @@
 > + **_Autor_**: Curro Bonet-García (fjbonet@uco.es)
 > + **Duración**: Aproximadamente 2 horas.
 
-![portada](https://github.com/aprendiendo-cosas/Te_poblaciones_ecologia_ccaa/raw/master/imagenes/portada.png)
+![portada](https://github.com/aprendiendo-cosas/Te_poblaciones_ecologia_ccaa/raw/2023_2024/imagenes/portada.png)
 
 
 
@@ -39,8 +39,8 @@ En esta sesión se suministra el siguiente material:
 + Después se analiza cómo los conceptos ecológicos descritos anteriormente fueron aplicados a la creación de unos criterios de asignación de categorías de amenaza a las especies. Dichos criterios están disponibles en [este](https://www.iucnredlist.org/es/resources/redlistguidelines) manual editado por la [UICN](https://www.iucn.org/es). 
 + Para toda la sesión se usa como guía una presentación de Prezi que está disponible en varios formatos:
   + [Visualización en línea](https://prezi.com/view/trVzAxyV5rzjx3yCFqBr).
-  + Descarga de ejecutable para verla offline. Disponible para [Mac](https://github.com/aprendiendo-cosas/Te_poblaciones_ecologia_ccaa/raw/master/presentacion/poblaciones_ecologia.zip) y para [Windows](https://github.com/aprendiendo-cosas/Te_poblaciones_ecologia_ccaa/raw/master/presentacion/poblaciones_ecologia.exe).
-  + Descarga en formato [pdf](https://github.com/aprendiendo-cosas/Te_poblaciones_ecologia_ccaa/raw/master/presentacion/poblaciones_ecologia.pdf).
+  + Descarga de ejecutable para verla offline. Disponible para [Mac](https://github.com/aprendiendo-cosas/Te_poblaciones_ecologia_ccaa/raw/2023_2024/presentacion/poblaciones_ecologia.zip) y para [Windows](https://github.com/aprendiendo-cosas/Te_poblaciones_ecologia_ccaa/raw/2023_2024/presentacion/poblaciones_ecologia.exe).
+  + Descarga en formato [pdf](https://github.com/aprendiendo-cosas/Te_poblaciones_ecologia_ccaa/raw/2023_2024/presentacion/poblaciones_ecologia.pdf).
   + También se puede ver incrustada a continuación:
 
 <iframe src="https://prezi.com/p/embed/B8X5kaItScAM3C0acXqS/" id="iframe_container" frameborder="0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen="" allow="autoplay; fullscreen" height="915" width="560"></iframe>
@@ -64,65 +64,41 @@ Se ha comprobado que una buena forma de fijar conocimientos y de identificar car
 
 Ahí van las preguntas que habéis formulado y una propuesta de respuesta por mi parte:
 
-**¿Cómo de frecuente es que falle la manera de clasificación de la lista roja?**
+**1.-¿Cómo de frecuente es que falle la manera de clasificación de la lista roja?**
 
 Pues no lo sé. ¿a qué te refieres con fallar? Es un proceso complejo porque está sometido a mucha incertidumbre. Tenéis en el moodle una tarea en la que hay un ejemplo de posible "fallo" de este sistema.
 
-
-
-**¿Puede la perdida de una especie provocar la extinción de todo un ecosistema?**
+**2.-¿Puede la perdida de una especie provocar la extinción de todo un ecosistema?**
 
 Aún no podemos entender esto porque no hemos estudiado los ecosistemas. La respuesta fácil es que no es probable que ocurra lo que sugieres. Los ecosistemas tienen varias especies que cumplen la misma función o funciones parecidas. Es decir, hay cierta redundancia, por lo que no suele ser catastrófico que desaparezca una única especie.
 
+**3.-¿Es posible que se conozca un porcentaje mucho mayor de especies del que se piensa? Es decir, puede ser que no haya tantas especeis como pensamos. ¿Qué evidencias hay para que pensemos que hay varios millones de especies que aún no conocemos?** Está muy bien planteada la pregunta. Aludir a las evidencias científicas disponibles es interesante. Además, esta pregunta es un caso de estudio muy bueno para practicar la dialógica (aprendizaje basado en el diálogo) con ChatGPT y Perplexity. Ahí van las respuestas que he conseguido buscando yo:
 
++ En efecto, es posible que en realidad estemos fallando en las estimaciones y que haya menos especies de las que creemos. Pero esto es poco probable. Las estimaciones del número de especies se calculan extrapolando los datos de sitios bien muestreados a otros que lo están menos. La solidez de estos estudios es alta. Aunque los resultados obtenidos no sean muy precisos (no sabemos cuántas especies puede haber en realidad), sí sabemos que la incertidumbre está acotada.
++ [Este](https://doi.org/10.1371/journal.pbio.1001127) estudio es el más avanzado que he encontrado sobre este asunto. Con una técnica novedosa estiman que hay 8.7 millones de especies eucariotas en la Tierra. De esa cantidad solo conocemos 1.2 millones.
 
-**¿Es posible que se conozca un porcentaje mucho mayor de especies del que se piensa? Es decir, puede ser que no haya tantas especeis como pensamos. ¿Qué evidencias hay para que pensemos que hay varios millones de especies que aún no conocemos?** Está muy bien planteada la pregunta. Aludir a las evidencias científicas disponibles es interesante. Además, esta pregunta es un caso de estudio muy bueno para practicar la dialógica (aprendizaje basado en el diálogo) con ChatGPT y Perplexity. Ahí van las respuestas que he conseguido buscando yo:
+**4.-¿Cuáles son los diferentes patrones de crecimiento de una población y qué factores los que afectan?** No entiendo bien qué quieres decir con patrones de crecimiento. Los factores que les afectan son siempre parecidos:
 
-+ En efecto, es posible que en realidad estemos fallando en las estimaciones y que haya menos espsecies de las que creemos. Pero esto es poco probable. 
+- Condiciones climáticas.
+- Características del suelo.
+- Disponibilidad de alimento.
+- Cantidad de depredadores.
 
+**5.-Hace poco vi en internet un proyecto que busca reintroducir el mamut en las estepas de Rusia ¿Es buena idea reintroducir especies extintas en los lugares que solían habitar?** Es una estupenda pregunta. Como viste en esa noticia, es algo que está poniéndose de "moda". Esta tendencia se denomina "rewilding" y pretende reintroducir organismos de gran tamaño (bien herbívoros o depredadores) en ecosistemas actuales. Tiene múltiples riesgos y es una práctica muy controvertida. Lo del mamut es algo muy extremo, pero en nuestro país se están planteando introducir los búfalos, por ejemplo. Cuando estudiemos las "cascadas tróficas" entenderás bien los posibles efectos de esta práctica.
 
+**6.-¿Cuáles son las consecuencias de una mala asignación de una especie a una de las categorías (ej. En peligro, vulnerable, etc)?** Pues las consecuencias son proteger una especie más de lo necesario (no demasiado grave) o protegerla menos de lo que sería adecuado. Esto último sí es muy grave porque podría provocar la extinción de dicha especie. 
 
-¿Cuáles son los diferentes patrones de crecimiento de una población y qué factores los que afectan?
+**7.-¿las listas rojas cada cuánto se deben de renovar? Ya que, debido al calentamiento global cada día se pueden producir alteraciones en una misma especie.** Son los estados o las regiones las que tienen la responsabilidad de hacer un seguimiento de sus especies amenazadas. También son responsables de decidir cuándo se actualizan las listas rojas. Hasta donde sé, en Andalucía no se ha actualizado todavía ninguna lista roja. Lo que sí se hace es cambiar la categoría de una especie concreta cuando sus condiciones van cambiando (para bien o para mal). La ley obliga a los estados y regiones a redactar planes de conservación para las especies con un grado de amenaza alto. Esto implica que se hace un seguimiento de sus poblaciones y así se sabe si cambia su estado de conservación. 
 
+**8.-¿Qué impacto puede generar el que una especie esté en peligro de extinción y por qué es importante su conservación?** Las especies son como las piezas que constituyen los ecosistemas. Esos escosistemas son los que permiten la vida de la Humanidad. Si perdemos muchas piezas ponemos en peligro nuestra propia subsistencia. Además, hay razones éticas para conservar a nuestros "hermanos" que nos acompañan en la vida. 
 
+**9.-¿Qué relación sigue la ciencia con la ecología para crear la lista roja de la UICN?** No he entendido esta pregunta.
 
-Hace poco vi en internet un proyecto que busca reintroducir el mamut en las estepas de Rusia ¿Es buena idea reintroducir especies extintas en los lugares que solían habitar?
+**10.-¿Cómo se relaciona en el ecologismo con la introducción de nuevas especies en un territorio determinado?Alterando así las relaciones con otros individuos.** No entiendo esta pregunta. Cuando dices ecologismo, ¿quieres decir ecología?
 
+**11.-En un hipotético caso en el que la ciencia avance lo suficiente como para traer a la vida especies ya extintas, si solo pudieran traerse a la vida unas pocas entrarían en estas categorías de especies amenazadas o se tendrían que crear categorías "especiales" para estos casos "especiales".** Supongo que crearían una categoría especial para estas especies. 
 
-
-¿Cuáles son las consecuencias de una mala asignación de una especie a una de las categorías (ej. En peligro, vulnerable, etc)?
-
-
-
-¿las listas rojas cada cuánto se deben de renovar? Ya que, debido al calentamiento global cada día se pueden producir alteraciones en una misma especie. 
-
-
-
-¿Qué impacto puede generar el que una especie esté en peligro de extinción y por qué es importante su conservación?
-
-
-
-El libro rojo lo actualizan cada año? Si no es así, cada cuando lo actualizan? 
-
-
-
-¿Qué relación sigue la ciencia con la ecología para crear la lista roja de la UICN?
-
-
-
-¿Cómo se relaciona en el ecologismo con la introducción de nuevas especies en un territorio determinado?Alterando así las relaciones con otros individuos.
-
-
-
-En un hipotético caso en el que la ciencia avance lo suficiente como para traer a la vida especies ya extintas, si solo pudieran traerse a la vida unas pocas entrarían en estas categorías de especies amenazadas o se tendrían que crear categorías "especiales" para estos casos "especiales".
-
-
-
-¿Cada cuánto se actualiza la lista de la UICN?
-
-
-
-¿Como puedes saber si una especie cambia de una categoría a otra de la UICN? ¿O como saber cuando se extingue totalmente? ¿Tienen un seguimiento continuo? 
+**12.-¿Como puedes saber si una especie cambia de una categoría a otra de la UICN? ¿O como saber cuando se extingue totalmente? ¿Tienen un seguimiento continuo?**  Las especies amenazadas sí que reciben un seguimiento continuo. Gracias a esto se van evaluando. periódicamente sus poblaciones y se puede cambiar la categoría de amenaza a la que pertenecen. 
 
 
 
