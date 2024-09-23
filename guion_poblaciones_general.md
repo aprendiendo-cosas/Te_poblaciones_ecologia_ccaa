@@ -57,9 +57,11 @@ Además, a continuación tienes material complementario que te servirá para pro
 
 <blockquote class="twitter-tweet"><p lang="es" dir="ltr">Crecimiento exponencial de bacterias y control del crecimiento microbiano en un solo video. <a href="https://twitter.com/hashtag/microE2223?src=hash&amp;ref_src=twsrc%5Etfw">#microE2223</a> <a href="https://t.co/0ak74j2GB9">pic.twitter.com/0ak74j2GB9</a></p>&mdash; MrNiceIce™ (@TritonScamander) <a href="https://twitter.com/TritonScamander/status/1584998310607085568?ref_src=twsrc%5Etfw">October 25, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 
-+ Por último, la siguiente imagen muestra estupendamente algo contraintuitivo: aunque la tasa de crecimiento poblacional tienda a ser cada vez más baja, el tamaño poblacional sigue aumentando hasta que la tasa es cero.
++ Por último, la siguiente imagen muestra estupendamente algo contraintuitivo: aunque la tasa de crecimiento poblacional tienda a ser cada vez más baja, el tamaño poblacional sigue aumentando hasta que la tasa es cero. El ejemplo es sobre el tamaño de la población humana en el planeta.
 
-![portada](https://github.com/aprendiendo-cosas/Te_poblaciones_ecologia_ccaa/raw/2023_2024/imagenes/tasa_crecimiento.jpg)
+
+
+<img src="https://raw.githubusercontent.com/aprendiendo-cosas/Te_poblaciones_ecologia_ccaa/master/imagenes/tasa_crecimiento.jpg" alt="portada" style="zoom:30%;" />
 
 
 
