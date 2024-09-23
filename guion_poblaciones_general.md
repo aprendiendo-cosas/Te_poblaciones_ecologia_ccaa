@@ -1,7 +1,8 @@
 # Guión de la sesión denominada "Poblaciones en ecología"
 
 
-> + **_Versión_**: 2023-2024
+> + **_Tipo de material_**: <span style="display: inline-block; font-size: 12px; color: white; background-color: #029BF9; border-radius: 5px; padding: 5px; font-weight: bold;"> Teoría</span>  <span style="display: inline-block; font-size: 12px; color: white; background-color: #E68532; border-radius: 5px; padding: 5px; font-weight: bold;"> Aplicación</span>
+> + **_Versión_**: 2024-2025
 > + **_Asignatura (grado)_**: Ecología (CCAA)
 > + **_Autor_**: Curro Bonet-García (fjbonet@uco.es)
 > + **Duración**: Aproximadamente 2 horas.
@@ -56,6 +57,12 @@ Además, a continuación tienes material complementario que te servirá para pro
 
 <blockquote class="twitter-tweet"><p lang="es" dir="ltr">Crecimiento exponencial de bacterias y control del crecimiento microbiano en un solo video. <a href="https://twitter.com/hashtag/microE2223?src=hash&amp;ref_src=twsrc%5Etfw">#microE2223</a> <a href="https://t.co/0ak74j2GB9">pic.twitter.com/0ak74j2GB9</a></p>&mdash; MrNiceIce™ (@TritonScamander) <a href="https://twitter.com/TritonScamander/status/1584998310607085568?ref_src=twsrc%5Etfw">October 25, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 
++ Por último, la siguiente imagen muestra estupendamente algo contraintuitivo: aunque la tasa de crecimiento poblacional tienda a ser cada vez más baja, el tamaño poblacional sigue aumentando hasta que la tasa es cero.
+
+![portada](https://github.com/aprendiendo-cosas/Te_poblaciones_ecologia_ccaa/raw/2023_2024/imagenes/tasa_crecimiento.jpg)
+
+
+
 
 
 ## Ideas para activar el [preguntismo](https://aprendientesdotorg.wordpress.com/2015/10/15/activar-el-preguntismo/)
@@ -64,45 +71,21 @@ Se ha comprobado que una buena forma de fijar conocimientos y de identificar car
 
 Ahí van las preguntas que habéis formulado y una propuesta de respuesta por mi parte:
 
-**1.-¿Cómo de frecuente es que falle la manera de clasificación de la lista roja?**
-
-Pues no lo sé. ¿a qué te refieres con fallar? Es un proceso complejo porque está sometido a mucha incertidumbre. Tenéis en el moodle una tarea en la que hay un ejemplo de posible "fallo" de este sistema.
-
-**2.-¿Puede la perdida de una especie provocar la extinción de todo un ecosistema?**
-
-Aún no podemos entender esto porque no hemos estudiado los ecosistemas. La respuesta fácil es que no es probable que ocurra lo que sugieres. Los ecosistemas tienen varias especies que cumplen la misma función o funciones parecidas. Es decir, hay cierta redundancia, por lo que no suele ser catastrófico que desaparezca una única especie.
-
-**3.-¿Es posible que se conozca un porcentaje mucho mayor de especies del que se piensa? Es decir, puede ser que no haya tantas especeis como pensamos. ¿Qué evidencias hay para que pensemos que hay varios millones de especies que aún no conocemos?** Está muy bien planteada la pregunta. Aludir a las evidencias científicas disponibles es interesante. Además, esta pregunta es un caso de estudio muy bueno para practicar la dialógica (aprendizaje basado en el diálogo) con ChatGPT y Perplexity. Ahí van las respuestas que he conseguido buscando yo:
-
-+ En efecto, es posible que en realidad estemos fallando en las estimaciones y que haya menos especies de las que creemos. Pero esto es poco probable. Las estimaciones del número de especies se calculan extrapolando los datos de sitios bien muestreados a otros que lo están menos. La solidez de estos estudios es alta. Aunque los resultados obtenidos no sean muy precisos (no sabemos cuántas especies puede haber en realidad), sí sabemos que la incertidumbre está acotada.
-+ [Este](https://doi.org/10.1371/journal.pbio.1001127) estudio es el más avanzado que he encontrado sobre este asunto. Con una técnica novedosa estiman que hay 8.7 millones de especies eucariotas en la Tierra. De esa cantidad solo conocemos 1.2 millones.
-
-**4.-¿Cuáles son los diferentes patrones de crecimiento de una población y qué factores los que afectan?** No entiendo bien qué quieres decir con patrones de crecimiento. Los factores que les afectan son siempre parecidos:
-
-- Condiciones climáticas.
-- Características del suelo.
-- Disponibilidad de alimento.
-- Cantidad de depredadores.
-
-**5.-Hace poco vi en internet un proyecto que busca reintroducir el mamut en las estepas de Rusia ¿Es buena idea reintroducir especies extintas en los lugares que solían habitar?** Es una estupenda pregunta. Como viste en esa noticia, es algo que está poniéndose de "moda". Esta tendencia se denomina "rewilding" y pretende reintroducir organismos de gran tamaño (bien herbívoros o depredadores) en ecosistemas actuales. Tiene múltiples riesgos y es una práctica muy controvertida. Lo del mamut es algo muy extremo, pero en nuestro país se están planteando introducir los búfalos, por ejemplo. Cuando estudiemos las "cascadas tróficas" entenderás bien los posibles efectos de esta práctica.
-
-**6.-¿Cuáles son las consecuencias de una mala asignación de una especie a una de las categorías (ej. En peligro, vulnerable, etc)?** Pues las consecuencias son proteger una especie más de lo necesario (no demasiado grave) o protegerla menos de lo que sería adecuado. Esto último sí es muy grave porque podría provocar la extinción de dicha especie. 
-
-**7.-¿las listas rojas cada cuánto se deben de renovar? Ya que, debido al calentamiento global cada día se pueden producir alteraciones en una misma especie.** Son los estados o las regiones las que tienen la responsabilidad de hacer un seguimiento de sus especies amenazadas. También son responsables de decidir cuándo se actualizan las listas rojas. Hasta donde sé, en Andalucía no se ha actualizado todavía ninguna lista roja. Lo que sí se hace es cambiar la categoría de una especie concreta cuando sus condiciones van cambiando (para bien o para mal). La ley obliga a los estados y regiones a redactar planes de conservación para las especies con un grado de amenaza alto. Esto implica que se hace un seguimiento de sus poblaciones y así se sabe si cambia su estado de conservación. 
-
-**8.-¿Qué impacto puede generar el que una especie esté en peligro de extinción y por qué es importante su conservación?** Las especies son como las piezas que constituyen los ecosistemas. Esos escosistemas son los que permiten la vida de la Humanidad. Si perdemos muchas piezas ponemos en peligro nuestra propia subsistencia. Además, hay razones éticas para conservar a nuestros "hermanos" que nos acompañan en la vida. 
-
-**9.-¿Qué relación sigue la ciencia con la ecología para crear la lista roja de la UICN?** No he entendido esta pregunta.
-
-**10.-¿Cómo se relaciona en el ecologismo con la introducción de nuevas especies en un territorio determinado?Alterando así las relaciones con otros individuos.** No entiendo esta pregunta. Cuando dices ecologismo, ¿quieres decir ecología?
-
-**11.-En un hipotético caso en el que la ciencia avance lo suficiente como para traer a la vida especies ya extintas, si solo pudieran traerse a la vida unas pocas entrarían en estas categorías de especies amenazadas o se tendrían que crear categorías "especiales" para estos casos "especiales".** Supongo que crearían una categoría especial para estas especies. 
-
-**12.-¿Como puedes saber si una especie cambia de una categoría a otra de la UICN? ¿O como saber cuando se extingue totalmente? ¿Tienen un seguimiento continuo?**  Las especies amenazadas sí que reciben un seguimiento continuo. Gracias a esto se van evaluando. periódicamente sus poblaciones y se puede cambiar la categoría de amenaza a la que pertenecen. 
 
 
 
 
+****
+
+[Aquí](https://github.com/aprendiendo-cosas/Te_poblaciones_ecologia_ccaa/archive/refs/tags/2024_2025.zip) puedes descargar un archivo .zip que contiene este guión en formato html y todo el material que incluye.
+
+****
+Haz click [aquí](https://github.com/aprendiendo-cosas/Te_poblaciones_ecologia_ccaa/releases) para ver cómo ha cambiado este guión en los distintos cursos académicos.
+
+****
+ <p xmlns:cc="http://creativecommons.org/ns#" >El contenido de este repositorio se puede utilizar bajo la siguiente licencia:  <a  href="https://creativecommons.org/licenses/by-nc-sa/4.0/?ref=chooser-v1"  target="_blank" rel="license noopener noreferrer"  style="display:inline-block;">CC BY-NC-SA 4.0<img  style="height:22px!important;margin-left:3px;vertical-align:text-bottom;"   src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"  alt=""><img  style="height:22px!important;margin-left:3px;vertical-align:text-bottom;"   src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1"  alt=""><img  style="height:22px!important;margin-left:3px;vertical-align:text-bottom;"   src="https://mirrors.creativecommons.org/presskit/icons/nc.svg?ref=chooser-v1"  alt=""><img  style="height:22px!important;margin-left:3px;vertical-align:text-bottom;"   src="https://mirrors.creativecommons.org/presskit/icons/sa.svg?ref=chooser-v1"  alt=""></a></p> 
+
+<p>Esta licencia no aplica a enlaces a artículos, libros o imágenes no originales. Estos productos tienen su licencia correspondiente.</p>
 
 
 
