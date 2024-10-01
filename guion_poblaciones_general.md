@@ -7,7 +7,7 @@
 > + **_Autor_**: Curro Bonet-García (fjbonet@uco.es)
 > + **Duración**: Aproximadamente 2 horas.
 
-![portada](https://github.com/aprendiendo-cosas/Te_poblaciones_ecologia_ccaa/raw/2023_2024/imagenes/portada.png)
+![portada](https://github.com/aprendiendo-cosas/Te_poblaciones_ecologia_ccaa/raw/2024_2025/imagenes/portada.png)
 
 
 
@@ -40,8 +40,8 @@ En esta sesión se suministra el siguiente material:
 + Después se analiza cómo los conceptos ecológicos descritos anteriormente fueron aplicados a la creación de unos criterios de asignación de categorías de amenaza a las especies. Dichos criterios están disponibles en [este](https://www.iucnredlist.org/es/resources/redlistguidelines) manual editado por la [UICN](https://www.iucn.org/es). 
 + Para toda la sesión se usa como guía una presentación de Prezi que está disponible en varios formatos:
   + [Visualización en línea](https://prezi.com/view/trVzAxyV5rzjx3yCFqBr).
-  + Descarga de ejecutable para verla offline. Disponible para [Mac](https://github.com/aprendiendo-cosas/Te_poblaciones_ecologia_ccaa/raw/2023_2024/presentacion/poblaciones_ecologia.zip) y para [Windows](https://github.com/aprendiendo-cosas/Te_poblaciones_ecologia_ccaa/raw/2023_2024/presentacion/poblaciones_ecologia.exe).
-  + Descarga en formato [pdf](https://github.com/aprendiendo-cosas/Te_poblaciones_ecologia_ccaa/raw/2023_2024/presentacion/poblaciones_ecologia.pdf).
+  + Descarga de ejecutable para verla offline. Disponible para [Mac](https://github.com/aprendiendo-cosas/Te_poblaciones_ecologia_ccaa/raw/2024_2025/presentacion/poblaciones_ecologia.zip) y para [Windows](https://github.com/aprendiendo-cosas/Te_poblaciones_ecologia_ccaa/raw/2024_2025/presentacion/poblaciones_ecologia.exe).
+  + Descarga en formato [pdf](https://github.com/aprendiendo-cosas/Te_poblaciones_ecologia_ccaa/raw/2024_2025/presentacion/poblaciones_ecologia.pdf).
   + También se puede ver incrustada a continuación:
 
 <iframe src="https://prezi.com/p/embed/B8X5kaItScAM3C0acXqS/" id="iframe_container" frameborder="0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen="" allow="autoplay; fullscreen" height="915" width="560"></iframe>
@@ -61,7 +61,7 @@ Además, a continuación tienes material complementario que te servirá para pro
 
 
 
-<img src="https://raw.githubusercontent.com/aprendiendo-cosas/Te_poblaciones_ecologia_ccaa/master/imagenes/tasa_crecimiento.jpg" alt="portada" style="zoom:30%;" />
+<img src="https://raw.githubusercontent.com/aprendiendo-cosas/Te_poblaciones_ecologia_ccaa/2024_2025/imagenes/tasa_crecimiento.jpg" alt="portada" style="zoom:30%;" />
 
 
 
@@ -71,7 +71,7 @@ Además, a continuación tienes material complementario que te servirá para pro
 
 Se ha comprobado que una buena forma de fijar conocimientos y de identificar carencias en el aprendizaje es tratar de formular preguntas sobre el tema estudiado. Así que, en algunas sesiones abriré un espacio para que inventes preguntas. La idea es que formules una pregunta sobre temas que te interesen relacionados con lo que hemos visto en clase. O cuestiones que conecten con la actualidad o que estén relacionadas con otras disciplinas. También sirven preguntas locas que no tienen por qué tener respuesta. Sube tu pregunta a [este](https://docs.google.com/forms/d/e/1FAIpQLScs9QiBABvvDUt1La1wNdGmao9PplCMSReVgV8wBIX5Q3YTZQ/viewform?usp=sf_link) formulario en los últimos 5' de clase. 
 
-Ahí van las preguntas que habéis formulado y una propuesta de respuesta por mi parte:
+Desgraciadamente nadie ha hecho preguntas sobre esto. O igual es que todos lo han entendido todo perfectamente...
 
 
 
