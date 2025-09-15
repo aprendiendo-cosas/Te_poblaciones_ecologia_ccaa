@@ -2,10 +2,10 @@
 
 
 > + **_Tipo de material_**: <span style="display: inline-block; font-size: 12px; color: white; background-color: #029BF9; border-radius: 5px; padding: 5px; font-weight: bold;"> Teoría</span>  <span style="display: inline-block; font-size: 12px; color: white; background-color: #E68532; border-radius: 5px; padding: 5px; font-weight: bold;"> Aplicación</span>
-> + **_Versión_**: 2024-2025
+> + **_Versión_**: 2025-2026
 > + **_Asignatura (grado)_**: Ecología (CCAA)
 > + **_Autor_**: Curro Bonet-García (fjbonet@uco.es)
-> + **Duración**: Aproximadamente 2 horas.
+> + **Duración**: Aproximadamente 2 horas de preparación en casa.
 
 ![portada](https://github.com/aprendiendo-cosas/Te_poblaciones_ecologia_ccaa/raw/2024_2025/imagenes/portada.png)
 
@@ -13,7 +13,7 @@
 
 ## Objetivos 
 
-Esta sesión tiene los siguientes objetivos:
+Esta sesión tiene los siguientes objetivos. Todos ellos se abordarán en casa:
 
 + Disciplinares (relacionados con la ecología)
 
@@ -65,13 +65,20 @@ Además, a continuación tienes material complementario que te servirá para pro
 
 
 
+## Grabación de esta sesión
+
+El siguiente vídeo muestra la grabación de esta sesión en el curso 20-21. Se incluye aquí como ayuda para la preparación del tema en casa.
+
+
+<iframe width="560" height="415" src="https://www.youtube.com/embed/ufc-CgszlAc?si=99K9-t8kIBxcvbaQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 
 
 ## Ideas para activar el [preguntismo](https://aprendientesdotorg.wordpress.com/2015/10/15/activar-el-preguntismo/)
 
-Se ha comprobado que una buena forma de fijar conocimientos y de identificar carencias en el aprendizaje es tratar de formular preguntas sobre el tema estudiado. Así que, en algunas sesiones abriré un espacio para que inventes preguntas. La idea es que formules una pregunta sobre temas que te interesen relacionados con lo que hemos visto en clase. O cuestiones que conecten con la actualidad o que estén relacionadas con otras disciplinas. También sirven preguntas locas que no tienen por qué tener respuesta. Sube tu pregunta a [este](https://docs.google.com/forms/d/e/1FAIpQLScs9QiBABvvDUt1La1wNdGmao9PplCMSReVgV8wBIX5Q3YTZQ/viewform?usp=sf_link) formulario en los últimos 5' de clase. 
+Se ha comprobado que una buena forma de fijar conocimientos y de identificar carencias en el aprendizaje es tratar de formular preguntas sobre el tema estudiado. Así que, en algunas sesiones abriré un espacio para que inventes preguntas. La idea es que formules una pregunta sobre temas que te interesen relacionados con lo que hemos visto en clase. O cuestiones que conecten con la actualidad o que estén relacionadas con otras disciplinas. También sirven preguntas locas que no tienen por qué tener respuesta. Sube tu pregunta a [este](https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=13GcfPkAbUeNBfUavU7CKvXSfMZUc71HpR4AMSoJrd5UMERPSzRXUFo4Qk04TFNSTEtOU0M2WE41SC4u) formulario cuando quieras. Iré anotando las respuestas a continuación
 
-Desgraciadamente nadie ha hecho preguntas sobre esto. O igual es que todos lo han entendido todo perfectamente...
+
 
 
 
@@ -79,7 +86,7 @@ Desgraciadamente nadie ha hecho preguntas sobre esto. O igual es que todos lo ha
 
 ****
 
-[Aquí](https://github.com/aprendiendo-cosas/Te_poblaciones_ecologia_ccaa/archive/refs/tags/2024_2025.zip) puedes descargar un archivo .zip que contiene este guión en formato html y todo el material que incluye.
+[Aquí](https://github.com/aprendiendo-cosas/Te_poblaciones_ecologia_ccaa/archive/refs/tags/2025_2026.zip) puedes descargar un archivo .zip que contiene este guión en formato html y todo el material que incluye.
 
 ****
 Haz click [aquí](https://github.com/aprendiendo-cosas/Te_poblaciones_ecologia_ccaa/releases) para ver cómo ha cambiado este guión en los distintos cursos académicos.
